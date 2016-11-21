@@ -5,3 +5,5 @@ Les premières idées du projet sont présentes et vont évoluer au fur et à mesure.
 L'objectif principal est de mettre en place et gérer les premiers événements de ce dépôt Git.
 
 Les tâches techniques à effectuer sont dans le fichier todo.txt
+
+Le site est disponible à l'adresse http://www.resanet.com/resaroute/
